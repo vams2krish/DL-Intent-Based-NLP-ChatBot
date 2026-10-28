@@ -1,4 +1,4 @@
-# Intent Based NLP ChatBot
+# DL - Intent Based NLP ChatBot
 
 An intent-based natural language processing chatbot project featuring a small conversational intent dataset, a saved Keras model, and serialized vocabulary/class artifacts. The response data introduces the assistant as **Vamika AI**.
 
@@ -32,7 +32,7 @@ These are dataset examples, not verified predictions from the saved model. Respo
 ## Repository structure
 
 ```text
-Intent-Based-NLP-ChatBot/
+DL-Intent-Based-NLP-ChatBot/
 ├── docs/
 │   └── project-overview.svg  # Project workflow illustration
 ├── models/
@@ -57,8 +57,8 @@ The original dependency list names Python libraries **NumPy**, **TensorFlow**, *
 Clone the repository:
 
 ```bash
-git clone https://github.com/vams2krish/Intent-Based-NLP-ChatBot.git
-cd Intent-Based-NLP-ChatBot
+git clone https://github.com/vams2krish/DL-Intent-Based-NLP-ChatBot.git
+cd DL-Intent-Based-NLP-ChatBot
 ```
 
 You can inspect and validate the dataset with Python, without installing machine-learning packages:
