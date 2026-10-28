@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Intent Based NLP ChatBot</title>
+  <desc id="desc">Illustrative project overview showing user messages flowing through an intent classifier to predefined responses. Four intent categories: greeting, goodbye, thanks, and query.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1228"/><stop offset="1" stop-color="#173650"/></linearGradient></defs>
+  <rect width="1200" height="630" rx="24" fill="url(#bg)"/>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="72" y="88" fill="#5eead4" font-size="18" letter-spacing="4">VAMIKA AI · PROJECT OVERVIEW</text>
+    <text x="72" y="157" fill="#ffffff" font-size="48" font-weight="700">Intent Based NLP ChatBot</text>
+    <text x="72" y="204" fill="#b8cce0" font-size="23">Small conversational dataset. Saved model. Predefined replies.</text>
+    <g stroke="#47718c" stroke-width="2" fill="#142c44">
+      <rect x="72" y="269" width="280" height="158" rx="18"/>
+      <rect x="460" y="269" width="280" height="158" rx="18"/>
+      <rect x="848" y="269" width="280" height="158" rx="18"/>
+    </g>
+    <g fill="#5eead4"><path d="M373 342h60l-15-12v24l15-12"/><path d="M761 342h60l-15-12v24l15-12"/></g>
+    <g fill="#ffffff" font-size="26" font-weight="600" text-anchor="middle">
+      <text x="212" y="320">User message</text><text x="600" y="320">Intent classifier</text><text x="988" y="320">Bot response</text>
+    </g>
+    <g fill="#b8cce0" font-size="21" text-anchor="middle">
+      <text x="212" y="373">“Hi there”</text><text x="600" y="373">greeting</text><text x="988" y="373">“Hello”</text>
+    </g>
+    <text x="72" y="494" fill="#5eead4" font-size="21">greeting / goodbye / thanks / query</text>
+    <text x="72" y="540" fill="#b8cce0" font-size="19">Python · NumPy · TensorFlow / Keras · NLTK</text>
+    <text x="72" y="582" fill="#8fa8bd" font-size="16">Illustrative workflow · Dataset and artifacts included · Application source pending</text>
+  </g>
+</svg>

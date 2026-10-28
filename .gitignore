@@ -1,0 +1,17 @@
+# Local Python environment and private configuration
+.env/
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.vscode/
+.idea/
+
+# Conversation transcripts may contain personal information
+conversations_*.txt
+*.log
+.DS_Store
+Thumbs.db
